@@ -16,6 +16,6 @@
 8. [Примеры на переменные и операции](http://code.mu/ru/javascript/book/prime/basis/variables-examples) 
     * [решение задач по теме](https://github.com/EIenaAbramova/Tasks_JavaScript/blob/main/Basics/Examples_on_variables_and_operations_in_JavaScript_8/variables_and_operations_8.js)
 9. [Автоматическое преобразование типов данных](http://code.mu/ru/javascript/book/prime/basis/automatic-types-conversion)
-    * [решение задач по теме](https://github.com/EIenaAbramova/Tasks_JavaScript/blob/main/Basics/Examples_on_variables_and_operations_in_JavaScript_8/variables_and_operations_8.js)
+    * [решение задач по теме](https://github.com/EIenaAbramova/Tasks_JavaScript/blob/main/Basics/Automatic_conversion_of_data_types_9/AutomaticConversionOfDataTypes9.js)
 
 
