@@ -22,10 +22,20 @@
 11. [Преобразование логического типа в JavaScript](http://code.mu/ru/javascript/book/prime/basis/logical-type-conversion)
     * [решение задач по теме](https://github.com/EIenaAbramova/Tasks_JavaScript/blob/main/Basics/Converting_a_Boolean_type_to_JavaScript_11/ConvertingABooleanTypeToJavaScript11.js)
 12. [Преобразование логического типа в JavaScript](http://code.mu/ru/javascript/book/prime/basis/conversion-to-logical-type)
-    * [решение задач по теме](https://github.com/EIenaAbramova/Tasks_JavaScript/blob/main/Basics/Conversion_to_a_logical_type_in_JavaScript_12/Conversion_to_a_logical_type_in_JavaScript_12.js
+    * [решение задач по теме](https://github.com/EIenaAbramova/Tasks_JavaScript/blob/main/Basics/Conversion_to_a_logical_type_in_JavaScript_12/Conversion_to_a_logical_type_in_JavaScript_12.js)
 13. [Получение символов строки на JavaScript](http://code.mu/ru/javascript/book/prime/basis/string-characters)
     * [решение задач по теме](https://github.com/EIenaAbramova/Tasks_JavaScript/blob/main/Basics/Getting_string_characters_in_JavaScript_13/Getting_string_characters_in_JavaScript_13.js)
 14. [Сокращенные операции в JavaScript](http://code.mu/ru/javascript/book/prime/basis/short-operations)
     * [решение задач по теме](https://github.com/EIenaAbramova/Tasks_JavaScript/blob/main/Basics/Abbreviated_operations_in_JavaScript_14/Abbreviated_operations_in_JavaScript_14.js)
+15. [Операции инкремента и декремента в JavaScript](http://code.mu/ru/javascript/book/prime/basis/increment-decrement)
+    * [решение задач по теме](https://github.com/EIenaAbramova/Tasks_JavaScript/blob/main/Basics/Increment_and_decrement_operations_in_JavaScript_15/Increment_and_decrement_operations_in_JavaScript_15.js)
+16. [Функция prompt в JavaScript](http://code.mu/ru/javascript/book/prime/basis/prompt)
+    * [решение задач по теме](https://github.com/EIenaAbramova/Tasks_JavaScript/blob/main/Basics/The_prompt_function_in_JavaScript_16/The_prompt_function_in_JavaScript_16.js)
+
+
+## Часть 2. Коллекции
+
+17. [Массивы в JavaScript](http://code.mu/ru/javascript/book/prime/collections/arrays)
+    * [решение задач по теме](https://github.com/EIenaAbramova/Tasks_JavaScript/blob/main/Collections/Arrays_in_JavaScript_17/Arrays_in_JavaScript_17.js)
 
 
