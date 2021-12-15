@@ -37,5 +37,3 @@
 
 17. [Массивы в JavaScript](http://code.mu/ru/javascript/book/prime/collections/arrays)
     * [решение задач по теме](https://github.com/EIenaAbramova/Tasks_JavaScript/blob/main/Collections/Arrays_in_JavaScript_17/Arrays_in_JavaScript_17.js)
-
-
