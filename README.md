@@ -42,4 +42,4 @@
 19. [Ключи из переменных в JavaScript](http://code.mu/ru/javascript/book/prime/collections/vars-keys)
     * [решение задач по теме](https://github.com/EIenaAbramova/Tasks_JavaScript/blob/main/Collections/Keys_from_variables_in_JavaScript_19/Keys_from_variables_in_JavaScript_19.js)
 20. [Типизация массивов и объектов в JavaScript](http://code.mu/ru/javascript/book/prime/collections/data-types)
-    * [решение задач по теме](https://github.com/EIenaAbramova/Tasks_JavaScript/blob/main/Collections/Arrays_in_JavaScript_17/Arrays_in_JavaScript_17.js)
+    * [решение задач по теме](https://github.com/EIenaAbramova/Tasks_JavaScript/blob/main/Collections/Typing_arrays_and_objects_in_JavaScript_20/Typing_arrays_and_objects_in_JavaScript_20.js)
