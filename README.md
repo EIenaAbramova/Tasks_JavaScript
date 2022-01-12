@@ -75,4 +75,4 @@
 34. [Примеры использования if-else в JavaScript](http://code.mu/ru/javascript/book/prime/conditions/examples)
     * [решение задач по теме](https://github.com/EIenaAbramova/Tasks_JavaScript/blob/main/Conditions/Examples_of_using_if-else_in_JavaScript_34/Examples_of_using_if-else_in_JavaScript_34.js)
 35. [Практика на условия if-else в JavaScript](http://code.mu/ru/javascript/book/prime/conditions/practicum)
-    * [решение задач по теме]https://github.com/EIenaAbramova/Tasks_JavaScript/blob/main/Conditions/Practice_on_if-else_conditions_in_JavaScript_35/Practice_on_if-else_conditions_in_JavaScript_35.js)
+    * [решение задач по теме](https://github.com/EIenaAbramova/Tasks_JavaScript/blob/main/Conditions/Practice_on_if-else_conditions_in_JavaScript_35/Practice_on_if-else_conditions_in_JavaScript_35.js)
