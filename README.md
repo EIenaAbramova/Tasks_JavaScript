@@ -93,7 +93,7 @@
 41. [Ошибки начинающих при работе с циклом while в JavaScript](http://code.mu/ru/javascript/book/prime/loops/while-mistakes)
     * [решение задач по теме](https://github.com/EIenaAbramova/Tasks_JavaScript/blob/main/Cycles/Beginner's_mistakes_when_working_with_the_while_loop_in_JavaScript_41/Beginner's_mistakes_when_working_with_the_while_loop_in_JavaScript_41.js)
 42. [Цикл for в JavaScript](http://code.mu/ru/javascript/book/prime/loops/for)
-    * [решение задач по теме]https://github.com/EIenaAbramova/Tasks_JavaScript/blob/main/Cycles/For_loop_in_JavaScript_42/For_loop_in_JavaScript_42.js)
+    * [решение задач по теме](https://github.com/EIenaAbramova/Tasks_JavaScript/blob/main/Cycles/For_loop_in_JavaScript_42/For_loop_in_JavaScript_42.js)
 43. [Накопление результата в цикле JavaScript](http://code.mu/ru/javascript/book/prime/loops/result-loop-accumulation)
     * [решение задач по теме](https://github.com/EIenaAbramova/Tasks_JavaScript/blob/main/Cycles/Accumulation_of_the_result_in_a_JavaScript_loop_43/Accumulation_of_the_result_in_a_JavaScript_loop_43.js)
 44. [Цикл for для массивов в JavaScript](http://code.mu/ru/javascript/book/prime/loops/array-for)
