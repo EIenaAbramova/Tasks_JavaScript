@@ -151,8 +151,8 @@
 
 ## Часть 14. Введение в DOM
 
-15. [Основы работы с DOM в JavaScript](http://code.mu/ru/javascript/book/prime/dom/basis/intro)
-15. [DOM элементы в JavaScript](http://code.mu/ru/javascript/book/prime/dom/basis/dom-elements)
+150. [Основы работы с DOM в JavaScript](http://code.mu/ru/javascript/book/prime/dom/basis/intro)
+151. [DOM элементы в JavaScript](http://code.mu/ru/javascript/book/prime/dom/basis/dom-elements)
 15. [Получение DOM элемента в JavaScript](http://code.mu/ru/javascript/book/prime/dom/basis/element-getting)
     * [решение задач по теме](https://github.com/EIenaAbramova/Tasks_JavaScript/blob/main/DOM/Getting_a_DOM_element_in_JavaScript_152/Getting_a_DOM_element_in_JavaScript_152.js)
 15. [Привязывание обработчиков событий к элементам](http://code.mu/ru/javascript/book/prime/dom/basis/events-handlers-binding)
