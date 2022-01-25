@@ -151,11 +151,12 @@
 
 ## Часть 14. Введение в DOM
 
+69. [Отработка циклов JavaScript](http://code.mu/ru/javascript/book/prime/loops/practicum)
+    * [решение задач по теме](https://github.com/EIenaAbramova/Tasks_JavaScript/blob/main/Cycles/While_loop_in_JavaScript_40/While_loop_in_JavaScript_40.js)
 150. [Основы работы с DOM в JavaScript](http://code.mu/ru/javascript/book/prime/dom/basis/intro)
 151. [DOM элементы в JavaScript](http://code.mu/ru/javascript/book/prime/dom/basis/dom-elements)
 152. [Получение DOM элемента в JavaScript](http://code.mu/ru/javascript/book/prime/dom/basis/element-getting)
-
-    * [решение задач по теме](https://github.com/EIenaAbramova/Tasks_JavaScript/blob/main/DOM/Getting_a_DOM_element_in_JavaScript_152/Getting_a_DOM_element_in_JavaScript_152.js)
+		* [решение задач по теме](https://github.com/EIenaAbramova/Tasks_JavaScript/blob/main/DOM/Getting_a_DOM_element_in_JavaScript_152/Getting_a_DOM_element_in_JavaScript_152.js)
 153. [Привязывание обработчиков событий к элементам](http://code.mu/ru/javascript/book/prime/dom/basis/events-handlers-binding)
     * [решение задач по теме](https://github.com/EIenaAbramova/Tasks_JavaScript/tree/main/DOM/Binding_event_handlers_to_elements_153)
 154. [Другие типы событий в JavaScript](http://code.mu/ru/javascript/book/prime/dom/basis/event-types)
