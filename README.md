@@ -151,7 +151,7 @@
 
 ## Часть 14. Введение в DOM
 
-69. [Отработка циклов JavaScript](http://code.mu/ru/javascript/book/prime/loops/practicum)
+169. [Отработка циклов JavaScript](http://code.mu/ru/javascript/book/prime/loops/practicum)
     * [решение задач по теме](https://github.com/EIenaAbramova/Tasks_JavaScript/blob/main/Cycles/While_loop_in_JavaScript_40/While_loop_in_JavaScript_40.js)
 150. [Основы работы с DOM в JavaScript](http://code.mu/ru/javascript/book/prime/dom/basis/intro)
 151. [DOM элементы в JavaScript](http://code.mu/ru/javascript/book/prime/dom/basis/dom-elements)
