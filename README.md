@@ -1,8 +1,8 @@
-# **Решение задач по книге Трепачёв Д.П. © 2012-2021 г. Основной учебник JavaScript**
+# **Решение задач по книге Трепачёв Д.П. © 2012-2023 г. Основной учебник JavaScript**
 
 ## Часть 1. Основы
 
-1. [Введение](http://code.mu/ru/javascript/book/prime/basis/intro)
+1. [`Введение`](http://code.mu/ru/javascript/book/prime/basis/intro)
 2. [Переменные](http://code.mu/ru/javascript/book/prime/basis/variables) 
     * [решение задач по теме](https://github.com/EIenaAbramova/Tasks_JavaScript/blob/main/Basics/Variables_in_JavaScript_2/variables_2.js)
 3. [Числа](http://code.mu/ru/javascript/book/prime/basis/numbers) 
